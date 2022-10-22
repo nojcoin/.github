@@ -1,4 +1,4 @@
-## Nojer Network
+# Nojcoin Network
 
 Using the noj network you can be able to connect and build on 
 popular blockchain networks.
@@ -15,5 +15,5 @@ Individuals can run nojcoin network privately, verifying blocks independently
 
 Build network Dapps using Nojro Network, makes it possible to automatically connect with other networks 
 
-# Nojcoin
+# Nojro
 powered by nojers for nojers
