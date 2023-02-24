@@ -1,2 +1,0 @@
-# .github
-Connecting Blockchain Networks
